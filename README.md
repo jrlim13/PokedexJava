@@ -1,4 +1,7 @@
 # PokedexJava
 Pokedex App written in Java with Android Studio.
 
-Uses a TFLite Model generated from https://colab.research.google.com/drive/143DURG7KrJfl5T8vHdqRsb_YsO8UoVI3
+## Google Colab Notebok
+Link to Gist: https://gist.github.com/jrlim13/bf7be486c59d12ff07e9487a0ed269d5
+
+* Use Google Colab to generate model
